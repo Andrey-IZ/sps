@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">      
+        <file>img/ico/combo_dropdown_down_disabled.png</file>
+        <file>img/ico/combo_dropdown_down.png</file>
+        <file>img/ico/combo_dropdown_up.png</file>
+        <file>img/ico/sp_down_pressed.png</file>
+        <file>img/ico/sp_down_disabled.png</file>
+        <file>img/ico/sp_down_hover.png</file>
+        <file>img/ico/sp_down_origin.png</file>
+        <file>img/ico/sp_up_pressed.png</file>
+        <file>img/ico/sp_up_disabled.png</file>
+        <file>img/ico/sp_up_hover.png</file>
+        <file>img/ico/sp_up_origin.png</file>
+        <file>img/ico/pb_add.png</file>
+        <file>img/ico/pb_del.png</file>
+        <file>img/ico/cb_checked.png</file>
+        <file>img/ico/cb_indet.png</file>
+        <file>img/ico/rb_checked.png</file>
+        <file>img/ico/rb_unchecked.png</file>
+        <file>img/ico/cb_unchecked.png</file>
+        <file>img/ico/cb_checked_disabled.png</file>
+        <file>img/ico/cb_indet_disabled.png</file>
+        <file>img/ico/cb_unchecked_disabled.png</file>
+        <file>img/ico/rb_checked_disabled.png</file>
+        <file>img/ico/rb_unchecked_disabled.png</file>
+        <file>img/ico/rb_checked_hover.png</file>
+        <file>img/ico/rb_unchecked_hover.png</file>
+        <file>img/ico/cb_checked_hover.png</file>
+        <file>img/ico/cb_unchecked_hover.png</file>
+        <file>img/ico/cb_indet_hover.png</file>
+        <file>img/ico/pb_decrease.png</file>
+        <file>img/ico/pb_increase.png</file>
+        <file>img/ico/pb_accute_increase.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+build*
+*.pro.user*
+bin/*
+sysroot/
+log.txt
+lib/*
+
